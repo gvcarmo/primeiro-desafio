@@ -2,7 +2,7 @@
 
 Esta é uma solução do frontend mentor, projeto [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-[Projeto QR code component](./design/screenshot-primeiro-desafio.png)
+[Projeto QR code component]()
 
 ## Conteúdo
 
@@ -22,7 +22,7 @@ Esta é uma solução do frontend mentor, projeto [QR code component challenge o
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/screenshot-primeiro-desafio.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
