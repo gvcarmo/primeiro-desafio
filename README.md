@@ -2,10 +2,11 @@
 
 Esta é uma solução do frontend mentor, projeto [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Table of contents
+[Projeto QR code component](./design/screenshot-primeiro-desafio.png)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
+## Conteúdo
+
+
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
