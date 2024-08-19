@@ -5,7 +5,7 @@ Esta é uma solução do frontend mentor, projeto [QR code component challenge o
 [Projeto QR code component]()
 
 ## Conteúdo
- - Solution URL: [Add solution URL here](https://gvcarmo.github.io/primeiro-desafio/)
+ - Link da Solução: [Clique aqui](https://gvcarmo.github.io/primeiro-desafio/)
 
 ### Built with
 
